@@ -23,7 +23,7 @@ Installation:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/techysdx/ai-face-recognition.git
+git clone SDWhiteHatExpert/Ai-FACE-RECOGNITION
 Install dependencies:
 Copy code
 pip install -r requirements.txt
